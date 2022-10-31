@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649527336114",
+    "project_id": "safeshop-981db",
+    "storage_bucket": "safeshop-981db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649527336114:android:bdc695897e4461cc2bfdab",
+        "android_client_info": {
+          "package_name": "com.example.safeshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649527336114-n3kve72hok6t8vhqam7hijltai111cun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlR2u5u_AG9ENRq_GQ6wjDAOhCY3v6z9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649527336114-n3kve72hok6t8vhqam7hijltai111cun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

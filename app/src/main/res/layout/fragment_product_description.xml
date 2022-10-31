@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProductDescriptionFragment">
+
+    <TextView
+        android:id="@+id/tv_product_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:textColor="@color/black"
+        android:text="Our best selling short sleeve T-Shirt, the Crew neck and Straight-Hem, with our staple fabric.
+
+Designed for everyday wear, from the office to date night.
+
+-Graphic city print.
+-Luxury Cotton fabric for the flowy feel.
+-Best worn under outer wear and leather jackets.
+-Slim fit.
+-100% Cotton with comfort Stretch
+-Crew neck, Tailored FIT." />
+</FrameLayout>
